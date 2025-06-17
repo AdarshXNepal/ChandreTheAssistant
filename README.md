@@ -9,6 +9,9 @@
   ![Platform](https://img.shields.io/badge/Platform-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
   
   **A sophisticated AI-powered voice assistant that combines natural language processing, biometric authentication, and multi-service integration to create your personal digital companion.**
+
+
+  FULL WORKING DEMO VIDEO LINK BELOW: IF WANT TO KNOW ADVANCE FEATURES CONTACT ❤️
   
   ---
   
