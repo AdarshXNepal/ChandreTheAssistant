@@ -10,12 +10,41 @@
   
   **A sophisticated AI-powered voice assistant that combines natural language processing, biometric authentication, and multi-service integration to create your personal digital companion.**
 
+---
 
-  FULL WORKING DEMO VIDEO LINK BELOW: IF WANT TO KNOW ADVANCE FEATURES CONTACT ❤️
-  
-  ---
+Demonstration of My Assitant || More Compatible and more futuristic than current world assitant 
+
+https://www.loom.com/share/8b64f8e9009a4c1eb9ca88be054f8bb0?sid=13c73d4d-6a18-47f3-98ea-51aab02daea4
+
+
+
+
+
+
+
+
+----
+
+Watch Full video to see all features<br><br>
+1.FaceRecogntion and intruder detection<br>
+2.Live sending of email with reforming or reshaping the email <br>
+3.Sending Whatsapp message<br>
+4.Getting system info , current weather conditions<br>
+5.Opening website, native apps and all<br>
+6.Playing Music in Youtube<br>
+</div>
+
+----
   
 </div>
+
+
+## ✨ In this Repo
+
+The waking function like siri, google assitant file is missing for <br>
+The Face Recognition and other some feautres missing for privacy <br>
+
+Contact me for to get knowledge how to implement them <br>
 
 ## ✨ Key Highlights
 
